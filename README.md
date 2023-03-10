@@ -1,4 +1,6 @@
-# kata 1:
+# katas
+
+#kata 1:
 Some of the following katas deal with arrays and looping! If you're having some trouble completing these, you might find it helpful to visit some of the exercises, such as "Looping and Repetition","Array Operations and Properties", and "Looping Over Arrays". JavaScript does have some built-in helper functions for working with arrays such as .sort, .map, .filter, and others, but we highly recommend avoiding those functions while working through the katas.
 
 In the kata1 exercise, we will be given an array of 2 or more numbers. We will then have to find the two largest numbers in that array, and sum them together.
